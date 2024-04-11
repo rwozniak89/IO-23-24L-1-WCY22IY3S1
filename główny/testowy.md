@@ -10,3 +10,5 @@ xxxxxxxx
 
 
 kolejna zmiana dotyczaca testowania wysyłania
+
+kolejna zmiana do przykładowego pobrania
