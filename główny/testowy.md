@@ -7,3 +7,6 @@ dodaje wpis z poziomu skolonwaego projektu
 
 
 xxxxxxxx
+
+
+kolejna zmiana dotyczaca testowania wysyłania
